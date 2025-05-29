@@ -3,7 +3,7 @@
 
 **SportsOrca Assignment** is a modern MERN stack web app that displays upcoming **soccer matches** using the ScoreBat public video API. It features a clean **black-and-white theme**, stylish UI, and infinite scrolling for a seamless user experience.
 
-![SportsOrca Logo](./frontend/src/assets/logo.png)
+![SportsOrca Logo](https://res.cloudinary.com/dkoqcp1g9/image/upload/v1748495222/SportsOrca-Logo_cp4woj.png)
 
 ---
 
@@ -135,6 +135,6 @@ Made with ❤️ by [Vinayak Andhere]
 
 ## 📄 Live Link
 
-
+https://sportsorca.netlify.app/
 
 ---

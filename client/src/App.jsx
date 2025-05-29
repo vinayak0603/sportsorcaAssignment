@@ -13,7 +13,7 @@ function App() {
     isFetchingRef.current = true;
 
     try {
-      const res = await axios.get(`http://localhost:5000/api/soccer?page=${page}&limit=15`);
+      const res = await axios.get(`https://sportsorcaassignment.onrender.com/api/soccer?page=${page}&limit=15`);
       const newMatches = res.data;
 
       if (newMatches.length === 0) {
